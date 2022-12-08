@@ -1,0 +1,25 @@
+.carousel-item {
+    height: 85vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .custom-logo{
+    height: 40px;  
+  }
+
+  hr{
+    border-color:rgb(24, 24, 29);
+  }
+  
+  .footer ion-icon{
+    padding-right: 50px;
+    padding-left: 0%;
+  }
+  ion-icon{
+    padding-right: 1px;
+  }
